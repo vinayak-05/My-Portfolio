@@ -31,7 +31,7 @@ function App() {
 
   return (
     <>
-     <div style={{ zoom: "90%" }}>
+     <div style={{ zoom: "99%" }}>
       {/* Navbar */}
       <div
         style={{ backgroundColor: "#F1A638" }}
@@ -177,13 +177,13 @@ function App() {
         <div
           id="About"
           style={{ backgroundColor: "#C41A5F" }}
-          className="absolute mt-[400px] ml-[600px] text-amber-50 h-[60px] flex items-center 
+          className="absolute mt-[400px] ml-[480px] text-amber-50 h-[60px] flex items-center 
           text-5xl font-serif font-semibold opacity-0 translate-y-10 transition-all duration-1000 ease-in-out scroll-animate"
         >
           <p>Who is this guy? 🤷</p>
         </div>
 
-        <div className="text-4xl absolute mt-[950px] ml-[740px] text-amber-50 font-semibold opacity-0 translate-y-10 transition-all duration-1000 ease-in-out scroll-animate  w-[600px]">
+        <div className="text-4xl absolute mt-[950px] ml-[600px] text-amber-50 font-semibold opacity-0 translate-y-10 transition-all duration-1000 ease-in-out scroll-animate  w-[600px]">
           <p>
             Hi! I'm Vinayak Gupta😊 — a passionate developer and tech enthusiast
             currently pursuing my Bachelor's in Computer Science📝. I love
