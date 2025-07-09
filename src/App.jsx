@@ -31,6 +31,7 @@ function App() {
 
   return (
     <>
+     <div style={{ zoom: "90%" }}>
       {/* Navbar */}
       <div
         style={{ backgroundColor: "#F1A638" }}
@@ -196,7 +197,7 @@ function App() {
       
       <Project />
       <Skills/>
-    
+</div>
     </>
   );
 }
